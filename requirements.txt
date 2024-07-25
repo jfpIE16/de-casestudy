@@ -1,0 +1,7 @@
+pandas
+openpyxl
+unidecode
+pyodbc
+sqlalchemy
+python-dotenv
+ipython-sql

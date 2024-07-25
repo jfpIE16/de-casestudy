@@ -1,0 +1,22 @@
+INFO:__main__:Starting data extraction.
+INFO:__main__:Data successfully readed from Excel file.
+INFO:__main__:Applying data transformations.
+INFO:__main__:Parsing multiple date formats.
+INFO:__main__:Parsing encoding issues.
+INFO:__main__:Applying gender standarization.
+INFO:__main__:Starting data load
+INFO:__main__:Starting data extraction.
+INFO:__main__:Data successfully readed from Excel file.
+INFO:__main__:Applying data transformations.
+INFO:__main__:Parsing multiple date formats.
+INFO:__main__:Parsing encoding issues.
+INFO:__main__:Applying gender standarization.
+INFO:__main__:Starting data load
+INFO:__main__:Starting data extraction.
+INFO:__main__:Data successfully readed from Excel file.
+INFO:__main__:Applying data transformations.
+INFO:__main__:Parsing multiple date formats.
+INFO:__main__:Parsing encoding issues.
+INFO:__main__:Applying gender standarization.
+INFO:__main__:Starting data load
+INFO:__main__:Data loaded correctly.
